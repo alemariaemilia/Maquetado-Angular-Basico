@@ -1,0 +1,32 @@
+/* SECCION ACERCADE*/
+/*FOTO DE PERFIL*/
+.rounded-circle {
+    max-width: 25%;
+    margin: 4%;
+    margin-top: 1rem;
+  }
+  
+  /*FULL STACK DEVELOPER JR.*/
+  .col-lg-4 {
+    font-family: 'Arima Madurai', cursive;
+    color: rgb(243, 6, 6);
+    font-size: 1.5rem;
+    margin-top: -20%;
+    margin-left: 45%;
+  }
+  
+  .card.text-bg-light.mb-3 {
+    height: 10%;
+    width: 70%;
+    text-align: center;
+    margin-left: 17%;
+  }
+  
+  /*CARD ACERCA DE MI*/
+  .card.text-bg-light {
+    margin-top: 17rem;
+    text-align: center;
+  
+  }
+  
+  /*FIN SECCION ACERCADE*/

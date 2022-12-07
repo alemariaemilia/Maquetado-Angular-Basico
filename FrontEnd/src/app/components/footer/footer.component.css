@@ -1,0 +1,14 @@
+/*INICIO FOOTER*/
+.footer {
+    text-align: center;
+    width: 12%;
+    background-color: #fcfafa;
+    padding: 0.5rem;
+    height: 10%;
+    justify-content: center;
+    display: flex;
+  }
+  .text-center {
+    margin-top: 2rem;
+  }
+  /*FIN FOOTER*/

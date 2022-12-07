@@ -1,0 +1,11 @@
+body {
+    background-image: url(../src/assets/IMG/FondoSobreMi.jpg);
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -msn-background-size: cover;
+    overflow-x: hidden;
+  }

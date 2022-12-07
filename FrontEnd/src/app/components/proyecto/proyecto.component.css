@@ -1,0 +1,28 @@
+/*INICIO PROYECTO*/
+.proyectos {
+    text-decoration: overline red;
+    text-align: center;
+    justify-content: center;
+  }
+  
+  .card {
+    height: 28rem;
+    margin: 20px;
+    text-align: center;
+    border-radius: 6px;
+    overflow: hidden;
+    background: #d8f3e2;
+    box-shadow: 0px 1px 10px #020202;
+    cursor: default;
+    transition: all 400ms ease;
+    justify-content: center;
+  
+  
+  }
+  
+  .card:hover {
+    box-shadow: 5px 50px 20px #070707;
+    transform: translate(-3%);
+  }
+  
+  /*FIN PROYECTO*/

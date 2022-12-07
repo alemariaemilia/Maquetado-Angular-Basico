@@ -1,0 +1,39 @@
+/* SECCION EDUCACION*/
+.educacion {
+    text-decoration: overline RED;
+    text-align: center;
+    margin-top: 2%;
+  }
+  
+  .logo1 {
+    margin-left: 9%;
+  }
+  
+  .logo2 {
+    margin-left: 9%;
+  }
+  
+  .logo3 {
+    margin-left: 12%;
+  }
+  
+  .logo4 {
+    margin-left: 9%;
+  }
+  
+  .logo5 {
+    margin-left: 14%;
+  }
+  
+  .logo6 {
+    margin-left: 20%;
+  }
+  
+  .certificaciones {
+    margin-top: 15%;
+    margin: 10%;
+    text-align: center;
+    justify-content: flex;
+  }
+  
+  /*FIN SECCION EDUCACION*/

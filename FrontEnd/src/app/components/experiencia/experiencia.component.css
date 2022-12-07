@@ -1,0 +1,29 @@
+/*EXPERIENCIA*/
+.experiencia {
+    text-align: center;
+    text-decoration: overline red;
+    margin-top: 3rem;
+  }
+  
+  .exp1 {
+    width: 10%;
+    border-radius: 10%;
+    margin-left: 2rem;
+    margin-top: 5rem;
+  }
+  
+  .exp2 {
+    height: 80px;
+    border-radius: 10%;
+    margin-left: 5rem;
+    margin-top: 5rem;
+  }
+  
+  .exp3 {
+  
+    border-radius: 1rem;
+    margin-left: 5rem;
+    margin-top: 5rem;
+  }
+  
+  /*FIN SECCION EXPERIENCIA*/
