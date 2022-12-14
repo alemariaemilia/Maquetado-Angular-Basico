@@ -1,2 +1,2 @@
-# Mod-3---Maquetado-Angular
-Entrega la URL de Github del FrontEnd que contiene el maquetado basado en componente de Angular según el proyecto final integrador.
+# Maquetado-Angular-Basico
+Entrega la URL de Github del FrontEnd que contiene el maquetado basico pasado en componentes a Angular.
